@@ -30,3 +30,9 @@ It only updates if you run docker build
 ## Dockerfile
 
 The Dockerfile contains comments on how Docker is set up to comply with create-react-app
+
+## Possible Future Updates
+
+* Client and Server Hot Reloading
+  * this would mean that docker run could be used as a development server, eclipsing the need for `yarn start`
+  * N2S look up nodemon for hot reloading of the server
