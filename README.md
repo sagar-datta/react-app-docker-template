@@ -1,4 +1,6 @@
-# React App containerised with Docker
+## React App containerised with Docker
+
+I've just created this repo so that I can clone it each time I want to work on something
 
 ## Available Scripts
 
